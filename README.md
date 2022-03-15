@@ -20,7 +20,7 @@ This circuit allows bidirectional communication between your PC and your Arduino
 You can also communicate with two PCs (or a PC and laptop) by adding more than one of the CP2102 modules; not normally needed when used with a microcontroller but this circuit allows for that!
 
 ► Components used:  
-![PCB CP2102](https://user-images.githubusercontent.com/20911308/158420459-43577589-1c4d-4b29-9714-9f271b5d7b2c.jpg)  
+![PCB CP2102 Smal Colour](https://user-images.githubusercontent.com/20911308/158428502-ccbce538-584d-4d97-8800-1d28d49481e5.jpg)  
 CP2102 USB-to-Serial converter with its in-built 5v to 3v3 converter  
 https://www.aliexpress.com/item/32390863227.html
 
