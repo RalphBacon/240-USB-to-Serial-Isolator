@@ -4,7 +4,7 @@ Protect your USB sockets with this bidirectional USB to Serial isolator
 ► JLCPCB Only $2 for PCB Prototype any colour https://jlcpcb.com/cyt
 
 ![image](https://user-images.githubusercontent.com/20911308/158415401-74f6c2d8-a469-40e1-b6ad-c1af422779e7.png)  
-See video: #240 on YouTube
+See video: #240 on YouTube https://youtu.be/a9OMEPXGqD4
 
 ► You can now support me by buying me a coffee!  
 https://buymeacoffee.com/ralphbacon
