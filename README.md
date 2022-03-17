@@ -9,7 +9,7 @@ See video: #240 on YouTube https://youtu.be/a9OMEPXGqD4
 ► You can now support me by buying me a coffee!  
 https://buymeacoffee.com/ralphbacon
 
-This project was based on an idea/project by Tim Blythman in the March 2022 edition of Practical Electronics.  
+This project was inspired by an idea/project by Tim Blythman in the March 2022 edition of Practical Electronics.  
 More details on this excellent magazine here: https://www.electronpublishing.com/  
 I have modified the circuit slightly and created a custom PCB for my own use which I share here.  
 
