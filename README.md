@@ -2,7 +2,9 @@
 Protect your USB sockets with this bidirectional USB to Serial isolator
 
 ![image](https://user-images.githubusercontent.com/20911308/158415401-74f6c2d8-a469-40e1-b6ad-c1af422779e7.png)  
-See video: #240 on YouTube https://youtu.be/a9OMEPXGqD4
+See video: #240 on YouTube https://youtu.be/a9OMEPXGqD4  
+
+[![JLCPCB Any colour including purple](https://user-images.githubusercontent.com/20911308/159023045-0b36a90b-b015-4d46-a194-c1555a4ec3dc.jpg)](https://www.jlcpcb.com)  
 
 ► You can now support me by buying me a coffee!  
 https://buymeacoffee.com/ralphbacon
